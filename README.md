@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sreekumar-Insights
+- 👋 Hi, I’m @Sreekumar Narayan
 - 👀 I’m interested in IoT and Real-time Systems
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
